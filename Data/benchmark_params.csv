@@ -1,0 +1,4 @@
+case,sigma_w,sigma_obs,system,obs_type
+case1,0.5,1.0,linear,gaussian
+case2,0.3,1.0,gordon,gaussian
+case3,0.2,0.0,positive_rw,poisson
